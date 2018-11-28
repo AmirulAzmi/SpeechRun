@@ -1,0 +1,4 @@
+#JSGF V1.0;
+grammar gameplay;
+
+public <command> = continue | resume | retry | left | right | jump | slide | pause | home;

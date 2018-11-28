@@ -1,0 +1,4 @@
+#JSGF V1.0;
+grammar menu;
+
+public <command> = play | quit | score | tutorial | menu | next | previous;
